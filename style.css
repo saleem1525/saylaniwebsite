@@ -85,8 +85,8 @@
 }
 
 .slider1{
-    position: relative;
-    top: 0%;
+    /* position: relative;
+    top: 0%; */
     overflow: visible;
     /* height: 343px; */
     display: block;
