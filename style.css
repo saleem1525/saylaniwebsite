@@ -83,6 +83,14 @@
     /* height: 343px; */
     display: block;
 }
+
+.slider1{
+    position: relative;
+    top: 0%;
+    overflow: visible;
+    /* height: 343px; */
+    display: block;
+}
 .para2{
     width: 80%;
    background-color: #316DC3;
