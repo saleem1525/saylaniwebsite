@@ -1,0 +1,360 @@
+.first-background{
+    background-color: rgb(49, 109, 195);
+    width: 100%;
+    line-height: 10px;
+}
+.paragraph{
+    font-size: 16px !important;
+    margin-left: 25%;
+    position: absolute; 
+    top: 10px;
+    padding: 10px;
+    color: white;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+@media only screen and (max-width: 991px)
+.paragraph, .logo, .social-images , .button, .btu{
+    text-align: center !important;
+}
+
+
+
+.logo{
+    padding: 10px 0px 10px 10px;
+    cursor: pointer;
+    margin-top: 5px;
+}
+.social-images{
+    margin-left: 10%;
+    
+}
+.button{
+    position: absolute;
+    top: 10px;
+    margin-left: 70%;
+}
+.btu{
+    cursor: pointer;
+    font-size: 12px !important;
+    padding: 5px;
+}
+.second-background{
+    background-color: #f7f8fa ;
+    width: 100%;
+    height: 80px;
+}
+
+.sylani-logo{
+    margin-left: 10%;
+    padding: 10px;
+}
+.nav{
+    position: absolute;
+    top: 80px;
+    margin-left: 30%;
+}
+.nav-li{
+    display: inline;
+    padding: 10px;
+    cursor: pointer;
+    font-size: 16px !important;
+}
+.nav-li:hover{
+    background-color: rgb(49, 109, 195);
+    border-radius: 10px;
+    color: white;
+}
+.home{
+        background-color: rgb(49, 109, 195);
+    border-radius: 10px;
+    padding: 10px;
+    color: white;
+    
+}
+.banner{
+    position: relative;
+    top: 0%;
+}
+.para2{
+    width: 80%;
+   background-color: #316DC3;
+   margin-left: 10%;
+   margin-top: 10px;
+   font-size: 14px !important;
+   padding: 10px;
+   color: white;
+
+}
+
+
+.para2-news{
+    color: lightgreen;
+}
+
+.para2-span{
+    color: blue;
+}
+.margin-intro{
+    background-color: #f7f8fa;
+    width: 100%;
+    height: 40em;
+}
+.third-background{
+    margin-top: 15px;
+    background-color: #f7f8fa ;
+}
+.introduction{
+    padding: 50px 10px 10px 10px;
+    font-size: 16px !important;
+   
+}
+.duction{
+    color: #427900 !important;
+}
+.intro{
+    color: #316DC3;
+    text-align: center;
+}
+.favicon{
+   padding: 10px;
+}
+.para3{
+    text-align: justify;
+    margin-left: 20%;
+    margin-right: 20%;
+    line-height: 20px;
+    font-size: 14px !important;
+    color: rgb(102, 102, 102);
+    font-family: "Open Sans", sans-serif;
+}
+.fourth-background{
+    background-color: rgba(36, 79, 242, 0.8);
+    width: 100%;
+    height: 400px;
+}
+.tables{
+    margin-left: 90px;
+}
+.image1{
+    display: inline-block;
+    margin-top: 70px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+
+.image2{
+    display: inline-block;
+    margin-top: 70px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.image3{
+    display: inline-block;
+    margin-top: 30px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.image4{
+    display: inline-block;
+    margin-top: 30px;
+    padding: 30px;
+    text-align: center;
+    color: white;
+}
+.food{
+font-size: 50px !important;
+padding: 10px;
+}
+
+.daily{
+    font-size: 18px !important;
+}
+
+.monthly{
+    color: greenyellow;
+    font-size: 18px !important;
+}
+
+.fifth-background{
+    background-color: #f7f8fa ;
+    height: 40em;
+}
+.what-we-are-doing{
+    padding: 50px 10px 10px 10px;
+    font-size: 16px !important;
+}
+.are{
+    color: #427900;
+}
+.what{
+    color: #316DC3;
+    text-align: center;
+}
+.favicon{
+   padding: 10px;
+}
+.box1{
+    width: 293px;
+    height: 185px;
+    box-shadow: 10px;
+    background-color: white;
+    display: inline-block;
+    margin: 10px;
+    font-size: 16px !important;
+    box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+
+.container1{
+    text-align: center;
+    color: #316DC3;
+}
+.logo-2{
+    margin-top: 30px;
+    width: 70px;
+    padding: 10px;
+    cursor: pointer;
+}
+.sixth-background{
+    height: 25em;
+    display: flex;
+}
+.mission{
+    color: #316DC3;
+    margin: 50px 20px 20px 90px;
+    font-size: 28px !important;
+}
+.hr1{
+color: black;
+    width: 50px;
+    margin-top: 20px;
+    }
+
+.colom1{
+  margin-left: 90px;
+  display: flex;
+  flex-direction: row;
+  font-size: 16px !important;
+}
+
+.row1{
+    background-color: #f7f8fa ;
+    width: 270px;
+    margin-right: 30px;
+    padding:20px;
+    color: #316DC3;
+    border: 1px solid gainsboro;
+}
+.logo-3{
+   margin-right: 20px;
+}
+
+.colom2{
+    margin-left: 90px;
+  display: flex;
+  flex-direction: row;
+  font-size: 16px !important;
+  }
+  .row2{
+    background-color: #f7f8fa;
+    width: 270px;
+    margin-right: 30px;
+    padding:20px;
+    margin-top: 20px;
+    color: #316DC3;
+    border: 1px solid gainsboro;
+}
+.logo-4{
+   margin-right: 20px;
+}
+.event-text{
+    color: #316DC3;
+    margin: 50px 20px 20px 80px;
+    font-size: 28px !important;
+}
+.para-text{
+    margin: 10px 20px 20px 80px;
+    width: 300px;
+    font-size: 14px !important;
+    color: #666666;
+}
+.details{
+    color: blue;
+}
+.hr2{
+color:black;
+width: 50px;
+margin-top: 20px;
+}
+
+.seventh-paragraph{
+    height: 30em;
+}
+.introduction1{
+    font-size: 16px !important; 
+    
+}
+
+.images-center{
+    text-align: center;
+    margin-top: 20px;
+ 
+}
+
+.eight-paragraph{
+    background-color: rgb(51, 51, 51);
+    height: 22em;
+    color: aliceblue;
+    display: flex;
+}
+.footer-text1{
+   padding-top: 70px;
+   margin-left: 105px;
+   color: gray;
+
+}
+.phone{
+   margin-top: 10px;
+}
+.footer-text2{
+    padding-top: 70px;
+    margin-left: 105px;
+    color: white;
+ 
+ }
+ .footer-hr{
+     margin-top: 10px;
+     width: 30px;
+ }
+ .footer-connect{
+     margin-top: 30px;
+ }
+
+
+ .social-images2{
+    margin-top: 10px;
+    margin-right: 10px;
+    cursor: pointer;
+ }
+
+
+ .ninth-background{
+    background: rgb(49, 109, 217);
+    height: 50px;
+ }
+
+
+
+ .copyright{
+     padding: 20px;
+     margin-left: 8em;
+     font-size: 12px;
+     color: white;
+ }
